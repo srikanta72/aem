@@ -29,3 +29,7 @@ target
 .settings
 .project
 .classpath
+
+# Node 
+node
+node_modules
