@@ -1,2 +1,2 @@
 # aem
-Everything related to AEM
+AEM Practice repo as cloud
